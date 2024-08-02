@@ -1,2 +1,2 @@
 # simple-transport
-A simple packet transport build on the Java Socket library
+A simple packet transport built on the Java socket library
